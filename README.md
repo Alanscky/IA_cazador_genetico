@@ -9,7 +9,7 @@ Algoritmo genético que evoluciona grafos dirigidos de 6 nodos para encontrar in
 | 1 | NOMBRE | `grafos.py`, `nodo.py`, `adaptador.py`: representación, conversión y validación |
 | 2 | NOMBRE | `genetico.py`: algoritmo genético y aptitud |
 | 3 | Alan Martínez Martínez | `evaluacion.py` y `aleatorio.py`: evaluación semántica y línea base |
-| 4 | NOMBRE | `experimentos.py`: orquestación, registros y contraejemplos |
+| 4 | Yenifer Quintero Tolentino | `experimentos.py`: orquestación, registros y contraejemplos |
 
 ## Requisitos
 
